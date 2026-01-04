@@ -109,6 +109,27 @@ https://github.com/USERNAME/BigData-Customer-Churn-PySpark
 
 
 
+🚀 كيف تبدأ مشروع Big Data فعليًا؟
+📁 هيكل مشروع احترافي (أنصحك به)
+bigdata-project/
+│
+├── data/
+│   └── raw/
+│       └── dataset.csv
+│
+├── notebooks/
+│   └── 01_exploration.ipynb
+│
+├── scripts/
+│   └── transform.py
+│
+├── outputs/
+│   └── results/
+│
+└── README.md
+
+
+
 
 
 
